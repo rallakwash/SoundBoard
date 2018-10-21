@@ -1,0 +1,10 @@
+{
+  "client_id": "295182154382442508",
+  "token": "Mjk1MTgyMTU0MzgyNDQyNTA4.DJWDAA.it6HAHMBDgecxCfWfFlizxaulj4",
+  "prefix": "!",
+  "extensions": [".mp3", ".wav"],
+  "picextensions": [".jpg", ".jpeg", ".bmp", ".png"],
+  "size": 10000000,
+  "deleteMessages": true,
+  "stayInChannel": true
+}
