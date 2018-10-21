@@ -1,0 +1,13 @@
+coverage/
+dist/
+node_modules/
+
+config/config.json
+
+sounds/*
+!sounds/.keep
+
+db.json
+
+chansounds/*
+!chansounds/.keep
